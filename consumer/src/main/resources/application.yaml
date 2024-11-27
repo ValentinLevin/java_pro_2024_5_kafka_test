@@ -1,0 +1,4 @@
+debug: true
+spring:
+  kafka:
+    bootstrap-servers: 192.168.200.13:9092
